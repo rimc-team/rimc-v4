@@ -1,0 +1,5 @@
+
+#Common configurations for Enhanced Mushrooms
+[common]
+	"Whether mushroom blocks should be strippable with an axe" = true
+

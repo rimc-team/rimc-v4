@@ -1,0 +1,29 @@
+
+#These options will be synced to with all clients.
+[server]
+
+	#Options related to the brazier structure
+	[server.brazier]
+		#Should the living flame generate in jungle temple chests
+		#Range: > 0
+		rangePerLevel = 10
+		#Should the living flame generate in jungle temple chests
+		#Range: > 1
+		maxHeight = 10
+		#Should the living flame generate in jungle temple chests
+		#Range: > 0
+		baseRange = 20
+		#How should the distance to the brazier be calculated?
+		#Allowed Values: SPHERE, CYLINDER
+		distanceCalc = "CYLINDER"
+
+	#Options related to the acquisition of the living flame
+	[server.acquisition]
+		#Should the living flame generate in jungle temple chests?
+		jungleLoot = true
+		#The chance a crazed will spawn instead of an evoker in a mansion. Higher values = lower chance
+		#Range: > 1
+		crazedChance = 3
+		#Should crazed illagers spawn in generated woodland mansions?
+		spawnCrazed = true
+
