@@ -120,3 +120,4 @@ config/pneumaticcraft/ArmorFeatureStatus.cfg
 config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
 config/defaultoptions/options.txt
 config/xaerominimap.txt
+mods/OptiFine*.jar
