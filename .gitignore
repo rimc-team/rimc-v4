@@ -6,6 +6,10 @@ texturepacks/
 .vote2020_marker
 icon.png
 
+# Xaero
+XaeroWaypoints/
+XaeroWorldMap/
+
 # LFS
 
 ### Copied from Enigmatica 6
@@ -115,3 +119,4 @@ config/mininggadgets-client.toml
 config/pneumaticcraft/ArmorFeatureStatus.cfg
 config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
 config/defaultoptions/options.txt
+config/xaerominimap.txt
