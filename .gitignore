@@ -2,6 +2,10 @@
 server-resource-packs/
 texturepacks/
 
+# Multimc
+.vote2020_marker
+icon.png
+
 ### Copied from Enigmatica 6
 # Folders to ignore
 /dumps/
