@@ -15,3 +15,5 @@ The modpack for the RiMC server - v4. It's a general purpose 1.16 vanilla+ serve
 > Important! - You need to install Git LFS using the above command, otherwise changes to mod jars won't be picked up properly.
 
 If you've setup everything correctly (and your editor has Git support installed or built-in) you'll see that any changes you make are picked up by Git.
+
+> Easy introduction to Git: https://rogerdudler.github.io/git-guide/
