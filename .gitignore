@@ -23,6 +23,8 @@ XaeroWorldMap/
 /llibrary/
 /saves/
 screenshots/
+shaderpacks/
+XaeroWaypoints_*/
 /world/
 /defaultconfig/
 /data/
@@ -120,4 +122,7 @@ config/pneumaticcraft/ArmorFeatureStatus.cfg
 config/pneumaticcraft/PneumaticArmorHUDLayout.cfg
 config/defaultoptions/options.txt
 config/xaerominimap.txt
+config/xaeroworldmap.txt
 mods/OptiFine*.jar
+optionsof.txt
+optionsshaders.txt
