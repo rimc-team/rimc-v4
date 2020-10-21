@@ -6,6 +6,8 @@ texturepacks/
 .vote2020_marker
 icon.png
 
+# LFS
+
 ### Copied from Enigmatica 6
 # Folders to ignore
 /dumps/
@@ -17,7 +19,6 @@ icon.png
 /llibrary/
 /saves/
 screenshots/
-/mods/
 /world/
 /defaultconfig/
 /data/
@@ -61,6 +62,7 @@ post-file-to-discord.bat
 
 # Instance Sync
 **/*.jar
+!mods/*.jar
 !InstanceSync*.jar
 **/*.jar.disabled
 **/*.jar.meta
