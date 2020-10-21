@@ -1,0 +1,13 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/shots/moonlight.png
+  panorama = true
+  action = texturizebackground
+}
+

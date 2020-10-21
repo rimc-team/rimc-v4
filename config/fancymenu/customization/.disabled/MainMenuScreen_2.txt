@@ -1,0 +1,111 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/shots/moonlight.png
+  panorama = true
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-right
+  x = -115
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=400322%
+  width = 97
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Other Servers
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-right
+  x = -37
+  action = movebutton
+  y = 56
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = 31
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-right
+  x = -115
+  action = movebutton
+  y = 31
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-right
+  x = -60
+  action = movebutton
+  y = 56
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = Singleplayer
+}
+
+customization {
+  identifier = %id=400298%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = joinserver
+  x = -218
+  width = 200
+  action = addbutton
+  y = -26
+  label = RiMC IV
+  value = 
+  height = 20
+}
+

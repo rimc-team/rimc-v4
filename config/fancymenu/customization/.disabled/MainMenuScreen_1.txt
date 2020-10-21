@@ -1,0 +1,77 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/shots/moonlight.png
+  panorama = true
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-right
+  x = -37
+  action = movebutton
+  y = 46
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = 22
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-right
+  x = -115
+  action = movebutton
+  y = 22
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-right
+  x = -60
+  action = movebutton
+  y = 46
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = -62
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-right
+  x = -218
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=502346%
+  orientation = mid-right
+  x = -115
+  action = movebutton
+  y = -10
+}
+
