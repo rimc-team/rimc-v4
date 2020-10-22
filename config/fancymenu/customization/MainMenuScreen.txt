@@ -74,7 +74,7 @@ customization {
   action = addbutton
   y = -16
   label = Connect
-  value = 
+  value = 51.161.84.203:25590
   height = 20
 }
 
