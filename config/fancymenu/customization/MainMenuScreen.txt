@@ -13,31 +13,12 @@ customization {
 
 customization {
   identifier = %id=400322%
-  orientation = mid-right
-  x = -115
-  action = movebutton
-  y = -1
-}
-
-customization {
-  identifier = %id=400322%
-  width = 97
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=400322%
-  action = setbuttonlabel
-  value = Other Servers
+  action = hidebutton
 }
 
 customization {
   identifier = %id=604382%
-  orientation = mid-right
-  x = -37
-  action = movebutton
-  y = 56
+  action = hidebutton
 }
 
 customization {
@@ -45,7 +26,7 @@ customization {
   orientation = mid-right
   x = -218
   action = movebutton
-  y = 31
+  y = 19
 }
 
 customization {
@@ -53,15 +34,12 @@ customization {
   orientation = mid-right
   x = -115
   action = movebutton
-  y = 31
+  y = 19
 }
 
 customization {
   identifier = %id=376382%
-  orientation = mid-right
-  x = -60
-  action = movebutton
-  y = 56
+  action = hidebutton
 }
 
 customization {
@@ -69,7 +47,7 @@ customization {
   orientation = mid-right
   x = -218
   action = movebutton
-  y = -51
+  y = -41
 }
 
 customization {
@@ -80,10 +58,7 @@ customization {
 
 customization {
   identifier = %id=400346%
-  orientation = mid-right
-  x = -218
-  action = movebutton
-  y = -1
+  action = hidebutton
 }
 
 customization {
@@ -97,7 +72,7 @@ customization {
   x = -218
   width = 200
   action = addbutton
-  y = -26
+  y = -16
   label = Connect
   value = 
   height = 20
@@ -107,10 +82,10 @@ customization {
   orientation = mid-right
   shadow = true
   centered = false
-  x = -168
+  x = -176
   action = addtext
-  y = -108
-  scale = 3.0
+  y = -95
+  scale = 3.6
   value = RiMC IV
 }
 
