@@ -1,26 +1,26 @@
 ##[general]
 
 [A minecraft restart is required after changing this value.]
-B:enablehotkeys = 'true';
+B:enablehotkeys = 'false';
 B:playmenumusic = 'true';
 
 
 ##[customization]
 
 B:legacybuttonids = 'false';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 [Maximizes mod compatibility. Disables background customization support for scrollable menu screens. Restart is needed after changing this value.]
 B:softmode = 'false';
 
 
 ##[mainmenu]
 
-B:hidelogo = 'false';
+B:hidelogo = 'true';
 B:showmainmenufooter = 'false';
 B:hiderealmsnotifications = 'false';
 S:copyrightposition = 'bottom-right';
 B:hidebranding = 'true';
-B:hideforgenotifications = 'false';
+B:hideforgenotifications = 'true';
 
 
 ##[mainmenu_splash]
@@ -28,7 +28,7 @@ B:hideforgenotifications = 'false';
 I:splashoffsetx = '0';
 I:splashoffsety = '0';
 I:splashrotation = '-20';
-B:hidesplashtext = 'false';
+B:hidesplashtext = 'true';
 
 
 ##[loading]

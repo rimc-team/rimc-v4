@@ -16,7 +16,7 @@ customization {
   orientation = mid-right
   x = -115
   action = movebutton
-  y = 0
+  y = -1
 }
 
 customization {
@@ -83,7 +83,7 @@ customization {
   orientation = mid-right
   x = -218
   action = movebutton
-  y = 0
+  y = -1
 }
 
 customization {
@@ -98,8 +98,19 @@ customization {
   width = 200
   action = addbutton
   y = -26
-  label = RiMC IV
+  label = Connect
   value = 
   height = 20
+}
+
+customization {
+  orientation = mid-right
+  shadow = true
+  centered = false
+  x = -168
+  action = addtext
+  y = -108
+  scale = 3.0
+  value = RiMC IV
 }
 
