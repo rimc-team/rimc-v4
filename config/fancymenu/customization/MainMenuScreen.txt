@@ -13,7 +13,23 @@ customization {
 
 customization {
   identifier = %id=400322%
-  action = hidebutton
+  orientation = mid-right
+  x = -115
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=400322%
+  width = 97
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Other Servers
 }
 
 customization {
@@ -70,7 +86,7 @@ customization {
   orientation = mid-right
   buttonaction = joinserver
   x = -218
-  width = 200
+  width = 98
   action = addbutton
   y = 11
   label = Connect
