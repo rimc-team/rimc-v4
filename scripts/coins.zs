@@ -10,6 +10,7 @@ blastFurnace.removeRecipe(<item:coins:coin_gold>, <item:minecraft:gold_ingot>);
 // Add diamond recipes
 furnace.addRecipe("rimc:crafting/smelt_diamonds", <item:coins:coin_diamond>, <item:minecraft:diamond>, 0.7, 0);
 blastFurnace.addRecipe("rimc:crafting/smelt_diamonds", <item:coins:coin_diamond>, <item:minecraft:diamond>, 0.7, 0);
+craftingTable.addShapeless("rimc:crafting/coin_to_diamond", <item:minecraft:diamond>, [<item:coins:coin_diamond>]);
 
 // Make platinum coins worth more than diamond coins
 craftingTable.removeByName("coins:crafting/downgrade_diamond_to_platinum");
